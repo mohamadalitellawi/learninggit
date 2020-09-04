@@ -1,1 +1,3 @@
 hi
+
+the new line in another file
